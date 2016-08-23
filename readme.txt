@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 Spring is comming.
 Tody is a beautiful day.
+Immediately off work.
